@@ -6,3 +6,5 @@ In this project realized 3 effects:
 - led on full display (64 dots);
 - Running text (Right to left);
 - The counting numbers (0-9).
+Timer, which was generated in the project (in main.c file), not used.
+In addition led, embedded on the board STM32F0 Discovery, can used also.
